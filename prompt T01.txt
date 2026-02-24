@@ -1,0 +1,2 @@
+Prompt GPT
+Bagaimana membuat sebuah program untuk memesan makanan, yang dimana tempat makan tersebutmemiliki voucher ketika memesan 100.000 dapat kupon biru yaitu potongan harga 5%, ketika memesan 200.000 dapat kupon kuning yaitu potongan harga 10%, dan seterusnya. Program ini harus menampilkan output menu makanan, porsi, harga, total, dan total pembayaran dalam bahasa c

@@ -1,0 +1,2 @@
+Prompt ChatGPT
+Data mahasiswa disimpan dalam sebuah rak fisik yang tersusun rapat. Pola penyimpanannya ada pada gambar kedua di atas. Bagaimana membuat program yang mampu menentukan nilai hanya untuk kelompok yang diminta? dalam bahasa c.

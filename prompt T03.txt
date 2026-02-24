@@ -1,0 +1,33 @@
+Saya ingin kamu membantu membuat program sstem laundry sederhana menggunakan bahasa C. 
+Konteks dunia nyata:
+Laundry di del dilakukan 1 kali seminggu per asrama. laundry sudah termasuk biaya asrama, jadi tidak ada pembayaran. setiap asrama memiliki jadwal laundry yang berbeda. Mahasiswa mengumpulkan pakaian dalam tas besar berwarna merah, lalu petugas laundry menjemput sore hari dan mengembalikan keesokan sore. 
+
+Saat ini pencatatan dilakukan secara manual menggunakan kerta, berupa daftar kertas, berupa daftar jenis pakaian dan jumlahnya (contoh: baju, celana, jaket, handuk)
+
+Tujuan sistem:
+Mengganti pencatatan manual (kertas) dengan program C sederhana untuk mencatat:
+- "data asrama"
+- " Periode laundry mingguan"
+- "daftar item pakaian dan jumlahnya"
+- "status laundry (belum dijemput, dijemput, dikembalikan)"
+
+Aturan & batasan
+- Tidak ada sistem pembayaran
+- Tidak ada login mahasiswa
+- Data dicatat per asrama dan per minggu, bukan per individu
+- Program berbasis terminal / console
+
+Yang diinginkan dari program C:
+- Menu utama (misalnya: tambah asrama, input laundry mingguan, ubah status, tampilkan laporan)
+- Menggunakan struct untuk menyimpan data
+- Menggunakan array (tidak perlu file atau database)
+- Status laundry bisa berubah secara berurutan
+
+Batasan teknis:
+- Gunakan standar bahasa C
+- Jangan gunakan library di luar <stdio.h> dan <string.h>
+- Fokus pada logika sistem, bukan tampilan
+
+Tolong jelaskan terlebih dahulu desain data (struct) dan alur program, lalu berikan contoh kode C yang rapi dan mudah dipahami
+
+aturan dan batasan:
